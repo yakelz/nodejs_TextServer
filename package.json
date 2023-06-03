@@ -1,0 +1,12 @@
+{
+  "name": "text-server",
+  "version": "1.0.0",
+  "description": "simple npm-server",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "yakel",
+  "license": "ISC"
+}
